@@ -1,0 +1,13 @@
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\bin\Debug\netcoreapp3.1\SistemaDeMercadoSimples.exe
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\bin\Debug\netcoreapp3.1\SistemaDeMercadoSimples.deps.json
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\bin\Debug\netcoreapp3.1\SistemaDeMercadoSimples.runtimeconfig.json
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\bin\Debug\netcoreapp3.1\SistemaDeMercadoSimples.runtimeconfig.dev.json
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\bin\Debug\netcoreapp3.1\SistemaDeMercadoSimples.dll
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\bin\Debug\netcoreapp3.1\SistemaDeMercadoSimples.pdb
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\obj\Debug\netcoreapp3.1\SistemaDeMercadoSimples.csprojAssemblyReference.cache
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\obj\Debug\netcoreapp3.1\SistemaDeMercadoSimples.csproj.CoreCompileInputs.cache
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\obj\Debug\netcoreapp3.1\SistemaDeMercadoSimples.AssemblyInfoInputs.cache
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\obj\Debug\netcoreapp3.1\SistemaDeMercadoSimples.AssemblyInfo.cs
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\obj\Debug\netcoreapp3.1\SistemaDeMercadoSimples.dll
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\obj\Debug\netcoreapp3.1\SistemaDeMercadoSimples.pdb
+C:\gitCSharp\SistemaDeMercadoSimples\SistemaDeMercadoSimples\obj\Debug\netcoreapp3.1\SistemaDeMercadoSimples.genruntimeconfig.cache
